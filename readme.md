@@ -5,6 +5,7 @@
 	This app is an address book dashboard that lists the companies and their company relationship.
 	
 	For example: 
+	</p>
 	<ul>
 		<li>Customers will have a relationship of C.</li>
 		<li>Opportunities will have a relationship of O.</li>
@@ -13,6 +14,7 @@
 		<li>Prospects will have a relationship of P.</li>		
 	</ul>
 	
+<p>
 	It has filter funtionality that filters data according to their company relationship and a
 	search function that allows you to search for a company by their company name.
 	
