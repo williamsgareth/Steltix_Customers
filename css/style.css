@@ -119,7 +119,7 @@ body {
 }
 
 .imageError {
-	background-image: url('/img/error.png');
+	background-image: url('../img/error.png');
 	background-size: cover;
 	margin: 10px 70px;
 	width: 60px;
